@@ -1,1 +1,1 @@
-﻿# Campus Placement Management System
+# T&P Connect – Placement Management System
